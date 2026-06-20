@@ -1,0 +1,7 @@
+playwright
+pyautogui
+keyboard
+pyperclip
+Pillow
+opencv-python
+python-dotenv
